@@ -91,3 +91,8 @@ gh release create v3.6.0 --notes "Pre-build of VISP 3.6.0." visp3.xcframework.zi
 ```
 
 The above command creates a new release and add a `v3.6.0` tag to the GitHub repo.
+
+# References #
+
+- [VISP offical documentation](https://visp-doc.inria.fr/doxygen/visp-daily/tutorial-install-iOS.html)
+- [Create xcframework from framework](https://medium.com/strava-engineering/convert-a-universal-fat-framework-to-an-xcframework-39e33b7bd861)
